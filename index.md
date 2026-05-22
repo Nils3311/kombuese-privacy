@@ -7,7 +7,7 @@ description: Datenschutzerklärung für die iOS-App Kombüse
 # Datenschutzerklärung
 
 **App:** Kombüse (iOS)
-**Verantwortlicher:** Nils Hoffmann, nils.hoffmann@ane.energy
+**Verantwortlicher:** Nils Hoffmann, hofnil@web.de
 **Stand:** 22. Mai 2026
 
 ---
@@ -108,7 +108,7 @@ Wenn sich die Verarbeitung wesentlich ändert, wird diese Seite aktualisiert. Da
 Bei Fragen zum Datenschutz oder zur App:
 
 **Nils Hoffmann**
-E-Mail: [nils.hoffmann@ane.energy](mailto:nils.hoffmann@ane.energy)
+E-Mail: [hofnil@web.de](mailto:hofnil@web.de)
 
 ---
 
@@ -117,7 +117,7 @@ E-Mail: [nils.hoffmann@ane.energy](mailto:nils.hoffmann@ane.energy)
 # Privacy Policy (English)
 
 **App:** Kombüse (iOS)
-**Controller:** Nils Hoffmann, nils.hoffmann@ane.energy
+**Controller:** Nils Hoffmann, hofnil@web.de
 **Last updated:** 2026-05-22
 
 ## Summary
@@ -196,4 +196,4 @@ Material changes are reflected on this page; the date above shows the current ve
 Questions about privacy or the app:
 
 **Nils Hoffmann**
-Email: [nils.hoffmann@ane.energy](mailto:nils.hoffmann@ane.energy)
+Email: [hofnil@web.de](mailto:hofnil@web.de)
