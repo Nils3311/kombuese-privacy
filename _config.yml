@@ -1,4 +1,7 @@
-title: "Kombüse — Datenschutzerklärung"
-description: "Datenschutzerklärung der iOS-App Kombüse"
+title: "Kombüse"
+description: "Datenschutz und Support für die iOS-App Kombüse"
 theme: jekyll-theme-minimal
 lang: de
+exclude:
+  - README.md
+

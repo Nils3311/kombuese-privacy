@@ -6,9 +6,9 @@ description: Datenschutzerklärung für die iOS-App Kombüse
 
 # Datenschutzerklärung
 
-**App:** Kombüse (iOS)
+**App:** Kombüse (iOS / iPadOS)
 **Verantwortlicher:** Nils Hoffmann, hofnil@web.de
-**Stand:** 22. Mai 2026
+**Stand:** 27. Mai 2026
 
 ---
 
@@ -39,7 +39,7 @@ Kombüse verarbeitet **keine** Werbe-Identifier (IDFA), **keine** Standortdaten,
 
 Wenn du auf deinem Gerät bei iCloud angemeldet bist, synchronisiert Kombüse deine Daten automatisch über deine **private iCloud-Datenbank** zwischen deinen Geräten. Die Daten liegen in Apples Rechenzentren — der App-Entwickler hat **keinen Zugriff** auf deine iCloud-Inhalte.
 
-Wenn du dein Kochbuch über die Funktion **„Teilen"** mit anderen Personen teilst, bekommen genau diese Personen Lese- bzw. Schreibzugriff auf den geteilten Inhalt. Apple verwaltet die Einladung über sein CKShare-System. Du kannst Teilnehmer jederzeit wieder entfernen und das Teilen beenden.
+Wenn du deine Kombüse über die Funktion **„Mitkochen einladen"** mit anderen Personen teilst, bekommen genau diese Personen Lese- bzw. Schreibzugriff auf den geteilten Inhalt (Rezepte, Wochenplan, Einkaufsliste). Apple verwaltet die Einladung über sein CKShare-System. Du kannst Teilnehmer jederzeit wieder entfernen und das Mitkochen beenden.
 
 ---
 
@@ -85,7 +85,7 @@ Kombüse nutzt Apples **AlarmKit** für Kochtimer (`NSAlarmKitUsageDescription`)
 - **Komplett:** App deinstallieren. Lokale Daten werden mit der App entfernt.
 - **iCloud-Daten:** in den Einstellungen → „Lokale Daten zurücksetzen" oder über die iOS-Einstellungen → iCloud → Kombüse → Daten löschen.
 - **OpenRouter-API-Key:** in den App-Einstellungen → „API-Key entfernen". Der Key wird sofort aus dem Keychain gelöscht.
-- **Geteilte Bibliotheken:** in den Einstellungen → „Sharing" → Personen entfernen oder Sharing beenden.
+- **Geteilte Kombüsen:** in den Einstellungen → „Mitkochen" → Personen entfernen oder das Mitkochen beenden.
 
 Eine separate Anfrage an den Entwickler ist nicht nötig, da der Entwickler keinen Zugriff auf deine Daten hat.
 
@@ -116,9 +116,9 @@ E-Mail: [hofnil@web.de](mailto:hofnil@web.de)
 
 # Privacy Policy (English)
 
-**App:** Kombüse (iOS)
+**App:** Kombüse (iOS / iPadOS)
 **Controller:** Nils Hoffmann, hofnil@web.de
-**Last updated:** 2026-05-22
+**Last updated:** 2026-05-27
 
 ## Summary
 
@@ -143,7 +143,7 @@ Kombüse processes **no** advertising identifiers (IDFA), **no** location data, 
 
 When signed in to iCloud, Kombüse automatically syncs across your devices via your **private iCloud database**. Data is stored in Apple's data centers — the developer has **no access** to your iCloud content.
 
-When you share a cookbook with others through the in-app **„Share"** function, those specific people get read or write access to the shared content via Apple's CKShare system. You can remove participants and stop sharing at any time.
+When you invite others to a Kombüse through the in-app **„Mitkochen einladen"** (Cook together) function, those specific people get read or write access to the shared content (recipes, weekly plan, shopping list) via Apple's CKShare system. You can remove participants and stop sharing at any time.
 
 ## OpenRouter (AI features)
 
@@ -179,7 +179,7 @@ Kombüse uses Apple's **AlarmKit** (`NSAlarmKitUsageDescription`) for cooking ti
 - **Everything:** uninstall the app. Local data is removed with the app.
 - **iCloud data:** in-app Settings → „Reset Local Data" or via iOS Settings → iCloud → Kombüse → Delete Data.
 - **OpenRouter API key:** in-app Settings → „Remove API Key" — instantly deleted from Keychain.
-- **Shared libraries:** in-app Settings → „Sharing" → remove participants or stop sharing.
+- **Shared Kombüsen:** in-app Settings → „Mitkochen" → remove participants or stop sharing.
 
 No separate request to the developer is required because the developer has no access to your data.
 
